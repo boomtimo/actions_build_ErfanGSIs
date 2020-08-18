@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.3.0.QEECNXM/miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: http://122.189.233.1/bigota.d.miui.com/V11.0.5.0.PCACNXM/miui_MI6_V11.0.5.0.PCACNXM_996ffd2660_9.0.zip?ksy_gslb_referer=http%3A%2F%2Fwww.miui.com%2Fdownload-330.html
+  ROM_NAME: miui_MI6_V11.0.5.0.PCACNXM_996ffd2660_9.0.zip
   TZ: Asia/Shanghai
 
 jobs:
